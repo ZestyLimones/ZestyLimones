@@ -1,6 +1,6 @@
-# <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" >Hey there, I'm
+<img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/bicycle.gif" width="700px">
 
-![cyclist gif with my name displayed](./assets/cyclist.gif)
+# <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" >Hey there, I'm
 
 ### 😄 Pronouns: he, him, his
 
