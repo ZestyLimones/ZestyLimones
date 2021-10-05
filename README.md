@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm
+# <img src="https://github.com/ZestyLimones/ZestyLimones/tree/main/assets/hi.gif" width="29px" >Hey there, I'm
 
 ![cyclist gif with my name displayed](./assets/cyclist.gif)
 
