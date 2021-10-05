@@ -4,7 +4,7 @@
 
 ### 😄 Pronouns: he, him, his
 
-Software Engineer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node, and GitHub. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. I’m currently enrolled in a Full Stack bootcamp through the University of Denver to expand my skills and move into a Web Developer role.
+Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node, and GitHub. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. I’m currently enrolled in a Full Stack bootcamp through the University of Denver to expand my skills and move into a Web Developer role.
 
 ### 🔭 I’m currently working on:
 
