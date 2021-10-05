@@ -23,6 +23,8 @@ Software Engineer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node, and Gi
 
 <a href="mailto:michlimones@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/micheal-limones/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=1522278848) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/psychocyclist00/)
 
+[![ZestyLimones' GitHub stats](https://github-readme-stats.vercel.app/api?username=ZestyLimones&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ZestyLimones/github-readme-stats)
+
 ### ⚡ Fun fact:
 
 - In my free time I'm probably training for my next big charity bike ride 🚴. Ask me about it!
