@@ -42,8 +42,8 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node,
 
 ### 📈 GitHub Stats:
 
-[![ZestyLimones' GitHub stats](https://github-readme-stats.vercel.app/api?username=ZestyLimones&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ZestyLimones/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZestyLimones&theme=tokyonight)](https://github.com/ZestyLimones/github-readme-stats)
+[![ZestyLimones' GitHub stats](https://github-readme-stats.vercel.app/api?username=ZestyLimones&count_private=true&show_icons=true&theme=tokyonight)] &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZestyLimones&theme=tokyonight)]
 
 ### ⚡ Fun fact:
 
