@@ -13,9 +13,9 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node,
 
 ### 🌱 I’m currently learning
 
+- React
 - Node
 - Express.js
-- Handlebars
 
 ### 📫 How to reach me:
 
@@ -38,6 +38,7 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="4%" style="background-color:#FFFFFF" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello" width="4%" style="background-color:#FFFFFF"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4%" />
 </div>
 
 ### 📈 GitHub Stats:
