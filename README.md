@@ -8,13 +8,13 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node,
 
 ### 🔭 I’m currently working on:
 
-- Getting certified the DU Bootcamp program
-- Refining some of my previous projects
+- Getting certified through the DU Bootcamp program
+- Imporving my React.js skills
 
 ### 🌱 I’m currently learning
 
 - React
-- NoSQL
+- GraphQL
 - MongoDB
 
 ### 📫 How to reach me:
