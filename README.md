@@ -4,12 +4,12 @@
 
 ### 😄 Pronouns: he, him, his || they, them, their
 
-Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node, and GitHub. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. I’m currently enrolled in a Full Stack bootcamp through the University of Denver to expand my skills and move into a Web Developer role.
+Full Stack web developer skilled in HTML5, CSS3, JavaScript, React.js, APIs, Node.js, and GitHub. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. Received a Full Stack Web Developer certificate from the University of Denver Bootcamps. I continue to perfect my skills and expand my knowledge.
 
 ### 🔭 I’m currently working on:
 
-- Getting certified through the DU Bootcamp program
 - Imporving my React.js skills
+- Personal Trainer Application
 
 ### 🌱 I’m currently learning
 
@@ -48,4 +48,4 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, jQuary, APIs, Node,
 
 ### ⚡ Fun fact:
 
-- In my free time I'm probably training for my next big charity bike ride 🚴. Ask me about it!
+- When I’m not coding, you can usually find me on the trails preparing for my next charity bike ride event. Feel free to ask me about The Empire State Ride. 😊 🚴
