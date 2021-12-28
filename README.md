@@ -13,9 +13,8 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, React.js, APIs, Nod
 
 ### 🌱 I’m currently learning
 
-- React
-- GraphQL
-- MongoDB
+- React Native
+- Java
 
 ### 📫 How to reach me:
 
