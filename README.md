@@ -1,4 +1,4 @@
-# <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" >Hey there, I'm
+# <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="28px" >Hey there, I'm
 
 <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/bicycle.gif" width="800px" height="375px">
 
