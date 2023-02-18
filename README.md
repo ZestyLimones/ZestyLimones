@@ -4,7 +4,7 @@
 
 ### 😄 Pronouns: he, him, his
 
-Full Stack web developer skilled in HTML5, CSS3, JavaScript, React.js, APIs, Node.js, and GitHub. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. Received a Full Stack Web Developer certificate from the University of Denver Bootcamps. I continue to perfect my skills and expand my knowledge.
+Full Stack web developer skilled in HTML, CSS, JavaScript, React.js, APIs, Node.js, and SQL. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. Received a Full Stack Web Developer certificate from the University of Denver Bootcamps. I continue to perfect my skills and expand my knowledge.
 
 ### 🔭 I’m currently working on:
 
