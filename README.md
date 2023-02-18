@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/bicycle.gif" width="800px" height="375px">
 
-### 😄 Pronouns: he, him, his || they, them, their
+### 😄 Pronouns: he, him, his
 
 Full Stack web developer skilled in HTML5, CSS3, JavaScript, React.js, APIs, Node.js, and GitHub. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. Received a Full Stack Web Developer certificate from the University of Denver Bootcamps. I continue to perfect my skills and expand my knowledge.
 
@@ -13,12 +13,11 @@ Full Stack web developer skilled in HTML5, CSS3, JavaScript, React.js, APIs, Nod
 
 ### 🌱 I’m currently learning
 
-- React Native
 - Java
 
 ### 📫 How to reach me:
 
-<a href="mailto:micheal@zestylimones.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/micheal-limones/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/profile.php?id=1522278848) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/psychocyclist00/)
+<a href="mailto:michlimones@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/micheal-limones/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/zestylimones) &nbsp;
 
 ### 🛠️ Tech Tools:
 
