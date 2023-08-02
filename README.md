@@ -9,15 +9,16 @@ Full Stack web developer skilled in HTML, CSS, JavaScript, React.js, APIs, Node.
 ### 🔭 I’m currently working on:
 
 - Imporving my React.js skills
-- Personal Trainer Application
+- React Native collection app
+- AWS certifications
 
 ### 🌱 I’m currently learning
 
-- Java
+- React Native
 
 ### 📫 How to reach me:
 
-<a href="mailto:michlimones@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/micheal-limones/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/zestylimones) &nbsp;
+<a href="mailto:michlimones@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/micheal-limones/) &nbsp;
 
 ### 🛠️ Tech Tools:
 
