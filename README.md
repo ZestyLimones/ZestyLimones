@@ -4,7 +4,7 @@
 
 ### 😄 Pronouns: he, him, his
 
-Full Stack web developer skilled in HTML, CSS, JavaScript, React.js, APIs, Node.js, and SQL. Thrives on the challenge of learning new technologies and the satisfaction of solving difficult problems with creative solutions. Received a Full Stack Web Developer certificate from the University of Denver Bootcamps. I continue to perfect my skills and expand my knowledge.
+Experienced software developer with a strong foundation in technical and application analytics. Proficient across a range of web development technologies, encompassing HTML, CSS, JavaScript, React, Node.js, and backend technologies, including Express, JSON, GraphQL, and NoSQL. Well-versed in Agile methodologies and skilled with essential software development tools. Demonstrates a proven ability to collaborate effectively, leverage robust analytical skills, and make substantial contributions to architectural design.
 
 ### 🔭 I’m currently working on:
 
