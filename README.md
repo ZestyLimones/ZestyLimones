@@ -1,10 +1,8 @@
-# <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" >Hey there, I'm
-
-<img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/bicycle.gif" width="800px" height="375px">
+# <img src="https://github.com/ZestyLimones/ZestyLimones/blob/main/assets/Hi.gif" width="29px" > Hey there, I'm Micheal Limones
 
 ### 😄 Pronouns: he, him, his
 
-Experienced software developer with a strong foundation in technical and application analytics. Proficient across a range of web development technologies, encompassing HTML, CSS, JavaScript, React, Node.js, and backend technologies, including Express, JSON, GraphQL, and NoSQL. Well-versed in Agile methodologies and skilled with essential software development tools. Demonstrates a proven ability to collaborate effectively, leverage robust analytical skills, and make substantial contributions to architectural design.
+Full-stack JavaScript Developer specializing in technical consulting and cloud development. Proficient in the complete React stack, including React Native and Node.js. Demonstrates a proven track record in crafting dynamic applications and resolving system issues, resulting in client cost savings exceeding $15 million. Possesses extensive expertise in AWS services, playing a pivotal role in developing scalable solutions. Embraces Agile methodologies, essential tools, and a collaborative approach. Seeking a role that leverages skills to drive innovation and contribute to the excellence of software and cloud development initiatives.
 
 ### 🔭 I’m currently working on:
 
