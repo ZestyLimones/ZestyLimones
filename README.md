@@ -2,13 +2,20 @@
 
 ### 😄 Pronouns: he, him, his
 
-Full-stack JavaScript Developer specializing in technical consulting and cloud development. Proficient in the complete React stack, including React Native and Node.js. Demonstrates a proven track record in crafting dynamic applications and resolving system issues, resulting in client cost savings exceeding $15 million. Possesses extensive expertise in AWS services, playing a pivotal role in developing scalable solutions. Embraces Agile methodologies, essential tools, and a collaborative approach. Seeking a role that leverages skills to drive innovation and contribute to the excellence of software and cloud development initiatives.
+Dynamic and results-driven Cloud Engineer with a robust background in full-stack JavaScript development and cloud infrastructure. Proficient in AWS services, with a demonstrated history of crafting scalable, cost-effective solutions. Recognized for analytical skills that led to client cost savings exceeding $15 million, earning the Standout Performer Award in 2023. Adept in Agile methodologies, DevOps practices, and cloud-native development. Strong communicator and team collaborator, seeking a role to drive innovation and excellence in cloud engineering.
+
+### 📚 Certification stack:
+
+- Amazon Web Services(AWS) Certified Solutions Architect - Associate
+- Amazon Web Services(AWS) Certified Developer - Associate
+- Professional Scrum Master 1(PSM 1)
+- Google Cloud: Generative AI Fundamentals
 
 ### 🔭 I’m currently working on:
 
+- AWS Certifications
 - Imporving my React.js skills
 - React Native collection app
-- AWS certifications
 
 ### 🌱 I’m currently learning
 
@@ -21,22 +28,22 @@ Full-stack JavaScript Developer specializing in technical consulting and cloud d
 ### 🛠️ Tech Tools:
 
 <div style="margin: 1em 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavasSript" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="4%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavasSript" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="4%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello" width="4%"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="4%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="4%" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="4%" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="4%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="4%" />
+          
+    
 </div>
 
 ### 📈 GitHub Stats:
