@@ -6,6 +6,7 @@ Dynamic and results-driven Cloud Engineer with a robust background in full-stack
 
 ### 📚 Certification stack:
 
+- Amazon Web Services(AWS) Cloud Practitioner - Foundational
 - Amazon Web Services(AWS) Certified Solutions Architect - Associate
 - Amazon Web Services(AWS) Certified Developer - Associate
 - Professional Scrum Master 1(PSM 1)
